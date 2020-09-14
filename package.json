@@ -1,6 +1,6 @@
 {
   "name": "@kilodalton/card",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A personal card for Karen Dalton (@kilodalton)",
   "main": "/bin/card.js",
   "bin": {
