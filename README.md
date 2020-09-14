@@ -3,8 +3,8 @@ It's me, @kilodalton!
 # Usage
 
 ## npm
-```
-npx kilodalton
+```bash
+npx kilodalton/card
 ```
 
 ## GitHub Package Registry
